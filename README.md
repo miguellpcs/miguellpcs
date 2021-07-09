@@ -37,6 +37,6 @@ I love to learn new things from the basis and try to relationate with my previou
  - Junji Ito fan :tornado:
  - More about me in my lastfm, letterboxd and instagram:
   ###
- - https://letterboxd.com/pold/ (yea I do love horror movies)
- - https://www.last.fm/pt/user/Pold23 (yea I do love sad songs)
- - https://www.instagram.com/aalienobserver/ (yea I'm a bad photographer)
+  - https://letterboxd.com/pold/ (yea I do love horror movies)
+  - https://www.last.fm/pt/user/Pold23 (yea I do love sad songs)
+  - https://www.instagram.com/aalienobserver/ (yea I'm a bad photographer)
