@@ -32,7 +32,7 @@ I love to learn new things from the basis and try to relationate with my previou
  - I'm a music, cinema, photography and book nerd :monocle_face: :monocle_face:
  - Sport Club do Recife fan :heart::black_heart::lion:
  - My favorite juice is strawberry juice :strawberry:
- - I'm always joking (No jokes in my personal information ok:zany_face:)
+ - I'm always joking (There's no jokes in my personal information ok :zany_face:)
  - I talk too much :call_me_hand:
  - Junji Ito fan :tornado:
  - More about me in my lastfm, letterboxd and instagram:
