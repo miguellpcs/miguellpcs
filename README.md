@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Miguel Cruz, I'm 23 years old. I was born in Recife - PE, Brazil. U+1F3D6, U+FE0F
+I'm finishing my Computer Engineering bachelor at Cin - UFPE.
+
+I'm 
