@@ -24,6 +24,7 @@ I'm currently researcher at Motorola (Lenovo).
 - I've worked in projects involving Embedded Systems, Hardware and Software Engineering (Fuzzing).
 - I'm currently working with projects involving Deep Learning, Signals and Pattern Recognition. More specifically applied to Image, Computational Photography and  Audio. I also study Logic, Philosophy, Theory of Computation, Algorithms, Calculus and Analysis by myself. 
 I love to learn new things from the basis and try to relationate with my previous knowledge. I'm always trying to see and think from a different (and sometimes bizarre) way. I'm always very excited to colaborate in different projects, researches and study groups. So the logic conclusion is that I was born to study and to be a scientist.  :zany_face: :zany_face: :zany_face:
+- I speak Portuguese, English and French.
 
 - 📫 How to reach me: mlpcs@cin.ufpe.br 
 
@@ -37,4 +38,4 @@ I love to learn new things from the basis and try to relationate with my previou
  - More about me in my lastfm, letterboxd and instagram:
  - https://letterboxd.com/pold/ (yea I do love horror movies)
  - https://www.last.fm/pt/user/Pold23 (yea I do love sad songs)
- 
+ - https://www.instagram.com/aalienobserver/ (yea I'm a bad photographer)
