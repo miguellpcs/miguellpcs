@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Miguel Cruz, I'm 23 years old. I was born in Recife - PE, Brazil. U+1F3D6, U+FE0F
-I'm finishing my Computer Engineering bachelor at Cin - UFPE.
+My name is Miguel Cruz, I'm 23 years old. I was born in Recife - PE, Brazil. 
+I'm finishing my Computer Engineering bachelor at Cin - UFPE and planning to start my Master degree in 2022. :) 
+I'm currently researcher at Motorola (Lenovo). 
 
-I'm 
+I've worked in projects involving Embedded Systems, Hardware and Software Engineering (Fuzzing).
+I'm currently working with projects involving Deep Learning, Signals and Pattern Recognition. More specifically applied to Image, Computitional Photography and Audio. I also study Logic, Philosophy, Theory of Computation, Algorithms, Calculus and Analysis by myself. 
+I love to learn new things from the basis and try to relationate with my previous knowledge. I'm always trying to see and think from a different (and sometimes bizarre) way. So the logic conclusion is that I was born to study and to be a scientist. {\displaystyle \blacksquare }\blacksquare  
