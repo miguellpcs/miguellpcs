@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - My name is Miguel Cruz, I'm 23 years old. I was born in Recife - PE, Brazil.  :beach_umbrella:
 
-- I'm finishing my Computer Engineering bachelor at Cin - UFPE and planning to start my Master degree in 2022. 
+- I'm at the last semester of Computer Engineering bachelor at Cin - UFPE and planning to start my Master degree in jan/2022 in Computational Photography/Deep Learning. 
 I'm currently researcher at Motorola (Lenovo). 
 
 - I've worked in projects involving Embedded Systems, Hardware and Software Engineering (Fuzzing).
