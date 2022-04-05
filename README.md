@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ## Profissional Information:
 
-- My name is Miguel Cruz, I'm 23 years old. I was born in Recife - PE, Brazil.  :beach_umbrella:
+- My name is Miguel Cruz, I'm 24 years old. I was born in Recife - PE, Brazil.  :beach_umbrella:
 
-- I'm at the last semester of Computer Engineering bachelor at Cin - UFPE and planning to start my Master degree in jan/2022 in Computational Photography/Deep Learning. 
-I'm currently researcher at Motorola (Lenovo). 
+- I have a bachelor in Computer Engineering at Cin - UFPE and studying on Master degree in Computational Photography/Deep Learning. 
+I'm currently researcher at Motorola (Lenovo) and Working as a Software Engineer focusing in Mathematical Optimization at FCxLabs. 
 
 - I've worked in projects involving Embedded Systems, Hardware and Software Engineering (Fuzzing).
 - I'm currently working with projects involving Deep Learning, Signals and Pattern Recognition. More specifically applied to Image, Computational Photography and  Audio. I also study Logic, Philosophy, Theory of Computation, Algorithms, Calculus and Analysis by myself. 
@@ -36,7 +36,7 @@ I love to learn new things from the basis and try to relationate with my previou
  - I'm a music, cinema, photography and book nerd :monocle_face: :monocle_face:
  - Sport Club do Recife fan :heart::black_heart::lion:
  - My favorite juice is strawberry juice :strawberry:
- - I'm always joking (There's no jokes in my personal information ok :zany_face:)
+ - I'm always joking (There's no jokes in my profissional information ok :zany_face:)
  - I talk too much :call_me_hand:
  - Junji Ito fan :tornado:
  - More about me in my lastfm, letterboxd and instagram:
