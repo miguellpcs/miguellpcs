@@ -29,7 +29,7 @@ I love to learn new things from the basis and try to relationate with my previou
 - Shell Script
 
 - I speak Portuguese, English and French.
-
+- Resume (EN): https://miguellpcs.github.io/resume/
 - 📫 How to reach me: mlpcs@cin.ufpe.br 
 
 ## Personal Information:
