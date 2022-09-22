@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - My name is Miguel Cruz, I'm 24 years old. I was born in Recife - PE, Brazil.  :beach_umbrella:
 
 - I have a bachelor in Computer Engineering at Cin - UFPE and studying on Master degree in Computational Photography/Deep Learning. 
-I'm currently researcher at Motorola (Lenovo) and Working as a Software Engineer focused in Mathematical Optimization at FCxLabs. 
 
 - I've worked in projects involving Embedded Systems, Hardware and Software Engineering (Fuzzing).
 - I'm currently working with projects involving Deep Learning, Signals and Pattern Recognition. More specifically applied to Image, Computational Photography and  Audio. I also study Logic, Philosophy, Theory of Computation, Algorithms, Abstract/Linear/Vetorial Algebra, Calculus and Real/Complex Analysis by myself. 
