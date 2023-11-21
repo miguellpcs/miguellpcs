@@ -37,7 +37,6 @@ I love to learn new things from the basis and try to relationate with my previou
  - My favorite juice is strawberry juice :strawberry:
  - I'm always joking (There's no jokes in my profissional information ok :zany_face:)
  - I talk too much :call_me_hand:
- - Junji Ito fan :tornado:
  - More about me in my lastfm, letterboxd and instagram:
   ###
   - https://letterboxd.com/pold/ (yea I do love horror movies)
